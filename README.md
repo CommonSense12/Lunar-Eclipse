@@ -1,10 +1,15 @@
 # Introduction
 Welcome to Lunar Eclipse, Home to 1500 scripts.
+# Key System
+Our key system is just a pastebin link. We do not want players to get them from a site like linkvertise.
+**NOTE: WE DO NOT MAKE MONEY OFF YOUR SCRIPTS, IF YOU THINK OUR SCRIPT IS MAKING MONEY OUT OF YOUR SCRIPT THEN YOU'RE CLEARLY WRONG. WE DON'T USE LINK VERTISES, WORK INK AND OTHERS WEBSITES RELATED TO THIS CONTENT**
 # Terms of Service
 **By using this you must follow these**
 1. Any act of dump, tampering, leaking, deobfuscating scripts inside or our script will result to a HWID ban.
 2. Using HttpSpy to dump or do suspicious in the script will result to HWID ban
 3. Trying to replicate the script will result a HWID ban. We tolerate copiers of our script.
+4. Copying other scripts inside our script is bannable which can be HWID ban.
+5. Follow the terms of service of other scripts.
 # About us
 **About my team and my friends**
 
