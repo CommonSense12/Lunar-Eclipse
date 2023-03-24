@@ -1,8 +1,6 @@
 # Introduction
 Welcome to Lunar Eclipse, Home to 1500 scripts.
 # Key System
-Our key system is just a pastebin link. We do not want players to get them from a site like linkvertise.
-
 **NOTE: WE DO NOT MAKE MONEY OFF YOUR SCRIPTS, IF YOU THINK OUR SCRIPT IS MAKING MONEY OUT OF YOUR SCRIPT THEN YOU'RE CLEARLY WRONG. WE DON'T USE LINK VERTISES, WORK INK AND OTHERS WEBSITES RELATED TO THIS CONTENT**
 # Terms of Service
 **By using this you must follow these**
