@@ -20,11 +20,11 @@ print("The Script is coming soon. Thanks for the patience, it make take months")
 ```
 # Credits
 **Here are some people who helped and people who were sponsored!**
-   Owner/Creator: CommonSense12
-   Helper: Duck, Sky
-   Script Finder: Sky, Duck
-   Logos used: Credits to owner
-   Script credits: To the owners.
-   Sponsored: [Bluegamingyt/Epicplayz](https://youtube.com/@EpicPlayzYT265)
+  - Owner/Creator: CommonSense12
+  - Helper: Duck, Sky
+  - Script Finder: Sky, Duck
+  - Logos used: Credits to owner
+  - Script credits: To the owners.
+  - Sponsored: [Bluegamingyt/Epicplayz](https://youtube.com/@EpicPlayzYT265)
 
 Thanks to these people for helping me make this script!
