@@ -13,3 +13,8 @@ Welcome to Lunar Eclipse, Home to 1500 scripts.
  - I work with 2 of my friends, Sky and Duck. We've been helping each other since and i've sponsored Bluegamingyt. Subscribe to him [here](https://youtube.com/@EpicPlayzYT265)
    
  - Updates on Lunar Eclipse every saturday! So stay tuned if you'd like to see more amazing updates
+# Source Code
+**This script is encrypted. Trying to bypass or leaking it will lead to HWID ban which cannot be undone!**
+```lua
+print("The Script is coming soon. Thanks for the patience, it make take months")
+```
