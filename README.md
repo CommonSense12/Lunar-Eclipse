@@ -1,4 +1,7 @@
 # Introduction
 What is Lunar Eclipse?
-It is a free exploiting universal that has a a ton of features
-   - yes
+We are a free 1500 scripts with features:
+   - 🔐 No Key System!
+   - ⚡️ Fast and quick!
+   - 🔥 Cool Scripts!
+   - 🌟 Scripts you suggested
