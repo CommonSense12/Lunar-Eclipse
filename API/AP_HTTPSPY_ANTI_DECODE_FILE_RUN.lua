@@ -1,9 +1,37 @@
-local player = game:GetService("Players").LocalPlayer
-print("Deleted file, Username: "..players.name..)
-player.Health = "0"
-player:Kick("This API is deleted")
-game:Shutdown()
-print("Unable to rejoin. Try again")
-player:Kick("File variables (0/0)")
-task.wait(1)
-player:Kick("Fild variables (1/1)")
+local obfuscated = false
+
+if obfuscated == true then
+    print("real")
+else
+    print("still real hahahaha")
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print("why u still here. U try steal code 😡😡😡😡😡😡😡")
