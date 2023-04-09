@@ -30,3 +30,18 @@ We also update Lunar Eclipse every saturday with 50 brand new scripts.
   - I'm inspired by Dvrkness's Design. But
     i'm not copying or nor does i'm trying
     to copy her/he.
+5. **Why hasn't it loaded yet?**
+  - Lunar Eclipse takes atleast 5 to 10
+    seconds to load as it processes all the
+    scripts, If it hasn't load for atleast 25
+    seconds then try re executing or rejoining.
+6. **Can i join your team?**
+  - Unfortunaly no since we don't want leakers
+    but you can be our mod or admin in our discord
+    by filling our form. (**SOON**)
+# TOS - Terms of Service [Lunar Eclipse]
+1. Deobfuscating, or any method to make the script opened source
+will lead to a HWID ban. (cannot be undone)
+2. Do not try to copy our script or other scripts inside
+or you will be HWID ban. (cannot be undone)
+
