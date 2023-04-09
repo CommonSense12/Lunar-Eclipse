@@ -67,5 +67,5 @@ Thanks to these people
  - Helpers: Sky
  - Script finder: Duck
  - Scripters: SacrxdCommon12, Duck
- - Sponsored: Bluegangyt, His youtube. [Sub here](https://www.youtube.com/@epicplayz1975)
+ - Sponsored: Bluegangyt, His youtube. [Sub here](https://www.youtube.com/@EpicPlayzYT265)
  - Inspired Design: Dvrkness, His script [here](https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script)
