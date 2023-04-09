@@ -44,4 +44,7 @@ We also update Lunar Eclipse every saturday with 50 brand new scripts.
 will lead to a HWID ban. (cannot be undone)
 2. Do not try to copy our script or other scripts inside
 or you will be HWID ban. (cannot be undone)
-
+3. We are not and the owners of the scripts inside aren't
+capable of bans as we are warning you to use this at your own risk
+4. Asking for underaged scripts will lead to ban or if your
+script contains a IP Logger will lead to HWID Ban (cannot be undone)
