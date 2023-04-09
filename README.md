@@ -57,3 +57,14 @@ print("STILL IN DEVELOPMENT")
 Hi, I'm Dylan. I work with my trusted friends phxys, duck, sky and more
 We work all day to complete a script and by using our script you could support us
 and we appreciate it.
+
+Our upcoming Projects:
+  - LX Universal (10 Games)
+  - IDK ELSE
+# Credits
+Owner: Phxys, SacrxdCommon12.
+Helpers: Sky
+Script finder: Duck
+Scripters: Phxys, SacrxdCommon12, Sky, Duck
+Sponsored: Bluegangyt, His youtube. [Sub here](https://www.youtube.com/@epicplayz1975)
+Inspired Design: Dvrkness, His script [here](https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script)
