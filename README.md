@@ -14,6 +14,17 @@ We also update Lunar Eclipse every saturday with 50 brand new scripts.
   - We are not forcing anybody to use our
     script but you can use it anytime!
 2. **How do i take down my script**
-  - We cannot as we are showcasing your
-    script to the public. We don't make
+  - Unfortunaly we cannot
+    as we are showcasing your script
+    to the public. We don't make
     money or robux off of your script
+3. **How do i add my script**
+  - Join our discord and we will add your
+    script with credits but if it isn't
+    yours and you just wanted it to be
+    added then let us know who owns it
+    Don't worry you'll be credited!
+4. **Why is your design same as Dvrkness?**
+  - I'm inspired by Dvrkness's Design. But
+    i'm not copying or nor does i'm trying
+    to copy her/he.
