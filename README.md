@@ -1,5 +1,6 @@
 # Introduction - [Lunar Eclipse]
 Welcome to Lunar Eclipse!
+
 Home to 1500 scripts and features including:
   - Game Hub
   - Animation (R6 and R15)
@@ -8,6 +9,7 @@ Home to 1500 scripts and features including:
   - Admin Scripts
   - Community Suggestion
   - ETC
+
 We also update Lunar Eclipse every saturday with 50 brand new scripts.
 # FAQ - [Lunar Eclipse]
 1. **Why should we use your scripts**
