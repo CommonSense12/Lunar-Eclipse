@@ -62,9 +62,10 @@ Our upcoming Projects:
   - LX Universal (10 Games)
   - IDK ELSE
 # Credits
-Owner: Phxys, SacrxdCommon12.
-Helpers: Sky
-Script finder: Duck
-Scripters: Phxys, SacrxdCommon12, Sky, Duck
-Sponsored: Bluegangyt, His youtube. [Sub here](https://www.youtube.com/@epicplayz1975)
-Inspired Design: Dvrkness, His script [here](https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script)
+Thanks to these people
+ - Owner: Phxys, SacrxdCommon12.
+ - Helpers: Sky
+ - Script finder: Duck
+ - Scripters: SacrxdCommon12, Duck
+ - Sponsored: Bluegangyt, His youtube. [Sub here](https://www.youtube.com/@epicplayz1975)
+ - Inspired Design: Dvrkness, His script [here](https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script)
