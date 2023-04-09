@@ -48,3 +48,12 @@ or you will be HWID ban. (cannot be undone)
 capable of bans as we are warning you to use this at your own risk
 4. Asking for underaged scripts will lead to ban or if your
 script contains a IP Logger will lead to HWID Ban (cannot be undone)
+# Script - [Lunar Eclipse]
+This is the main loadstring. Any other loadstring not named by SacrxdCommon12/CommonSense12 isn't ours
+```lua
+print("STILL IN DEVELOPMENT")
+```
+# About us - [Lunar Eclipse]
+Hi, I'm Dylan. I work with my trusted friends phxys, duck, sky and more
+We work all day to complete a script and by using our script you could support us
+and we appreciate it.
