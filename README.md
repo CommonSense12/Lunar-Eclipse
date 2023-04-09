@@ -1,5 +1,3 @@
-# Lunar Eclipse
-<div align="center">Welcome to Lunar Eclipse!</div>
-<div align="center">Home to 1500 scripts with features including:</div>
-
-
+# Introduction
+<div align="center">Lunar Eclipse is one of the roblox's biggest hub script collection with over 1500 scripts.</div>
+<div align="center"></div>
