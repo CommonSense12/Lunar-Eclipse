@@ -1,2 +1,2 @@
 ## Lunar Eclipse.
-Lunar Eclipse has been improved to be using rayfield UI instead of Orion.
+"Future of Roblox UniversalScriptHub" Not really, It's a basic Universal ScriptHub since i hate finding for scripts >:(
