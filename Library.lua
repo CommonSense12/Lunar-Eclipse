@@ -1,15 +1,4 @@
---[[
 
-    Rayfield Interface Suite
-    by Sirius
-    
-    shlex | Designing + Programming
-    iRay  | Programming
-    Re-edited by LiterallyBacon
-    
-    ]]
-    
-    
     
     local Release = "Beta 7R"
     local NotificationDuration = 6.5
