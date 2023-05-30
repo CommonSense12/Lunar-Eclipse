@@ -1,49 +1,6 @@
 
     
-    local Release = "Beta 7R"
-    local NotificationDuration = 6.5
-    local RayfieldFolder = "Rayfield"
-    local ConfigurationFolder = RayfieldFolder.."/Configurations"
-    local ConfigurationExtension = ".rfld"
     
-    
-    
-    local RayfieldLibrary = {
-        Flags = {},
-        Theme = {
-            Default = {
-                TextFont = "Default", -- Default will use the various font faces used across Rayfield
-                TextColor = Color3.fromRGB(129, 22, 211),
-    
-                Background = Color3.fromRGB(165, 42, 42),
-                Topbar = Color3.fromRGB(136, 8, 8),
-                Shadow = Color3.fromRGB(20, 20, 20),
-    
-                NotificationBackground = Color3.fromRGB(136, 8, 8),
-                NotificationActionsBackground = Color3.fromRGB(165, 42, 42),
-    
-                TabBackground = Color3.fromRGB(136, 8, 8),
-                TabStroke = Color3.fromRGB(165, 42, 42),
-                TabBackgroundSelected = Color3.fromRGB(169, 49, 234),
-                TabTextColor = Color3.fromRGB(240, 240, 240),
-                SelectedTabTextColor = Color3.fromRGB(50, 50, 50),
-    
-                ElementBackground = Color3.fromRGB(136, 8, 8),
-                ElementBackgroundHover = Color3.fromRGB(165, 42, 42),
-                SecondaryElementBackground = Color3.fromRGB(139, 0, 0), -- For labels and paragraphs
-                ElementStroke = Color3.fromRGB(165, 42, 42),
-                SecondaryElementStroke = Color3.fromRGB(139, 0, 0), -- For labels and paragraphs
-    
-                SliderBackground = Color3.fromRGB(136, 8, 8),
-                SliderProgress = Color3.fromRGB(48, 22, 79),
-                SliderStroke = Color3.fromRGB(52, 15, 95),
-    
-                ToggleBackground = Color3.fromRGB(136, 8, 8),
-                ToggleEnabled = Color3.fromRGB(165, 42, 42),
-                ToggleDisabled = Color3.fromRGB(139, 0, 0),
-                ToggleEnabledStroke = Color3.fromRGB(139, 0, 0),--[[--[[--[[
-
-    Rayfield Interface Suite
     local Release = "Beta 7R"
     local NotificationDuration = 6.5
     local RayfieldFolder = "Rayfield"
